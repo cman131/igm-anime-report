@@ -1,0 +1,10 @@
+#main-img {
+    margin-left: 25%;
+}
+p.content-block {
+    text-align: left;
+}
+.content-block img:first-of-type {
+    float: right;
+    width: 215px;
+}

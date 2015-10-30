@@ -1,0 +1,11 @@
+#main-img {
+    height: 200px;
+    margin-left: 29%;
+}
+.content-block img {
+    height: 150px;
+    float: right;
+}
+.content-block:nth-child(3) {
+    text-align: left;
+}

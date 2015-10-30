@@ -1,0 +1,7 @@
+img.main-img {
+    height: 328px;
+    margin-left: 27%;
+}
+img.main-img.tall {
+    margin-left: 33%;
+}
