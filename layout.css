@@ -78,14 +78,3 @@ ul {
 	text-align: center;
 	line-height: 40px;
 }
-ul.content-block {
-	padding-right: 5%;
-	padding-left: 5%;
-	text-align: left;
-	line-height: 20px;
-}
-ul.content-block li {
-	padding-bottom: 20px;
-	margin-top: 20px;
-	border-bottom: 1px black solid;
-}
